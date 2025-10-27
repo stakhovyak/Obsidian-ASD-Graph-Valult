@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "-path:\"emotional-journal/_categories_moc\"",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "-path:\"emotional-journal/_categories_moc\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 0.724561403508772,
+  "linkDistance": 250,
+  "scale": 1,
+  "close": true
+}

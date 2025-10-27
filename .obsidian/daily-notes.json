@@ -1,0 +1,6 @@
+{
+  "format": "YYYY-MM-DD",
+  "folder": "emotional-journal",
+  "template": "templates/emotional-journal-template",
+  "autorun": true
+}

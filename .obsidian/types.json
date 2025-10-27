@@ -1,0 +1,30 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "energy": "number",
+    "sleep": "number",
+    "social_urge": "checkbox",
+    "work_urge": "checkbox",
+    "creative_urge": "checkbox",
+    "lying": "checkbox",
+    "symptoms": "multitext",
+    "food_quality": "number",
+    "medicines": "multitext",
+    "physical_activities": "multitext",
+    "sleep_quality": "number",
+    "2_social_urge": "checkbox",
+    "2_work_urge": "checkbox",
+    "2_creative_urge": "checkbox",
+    "2_food_quality": "checkbox",
+    "a_social_urge": "checkbox",
+    "a_work_urge": "checkbox",
+    "a_creative_urge": "checkbox",
+    "d_food_quality": "number",
+    "m_food_quality": "number",
+    "d_physical_activities": "multitext",
+    "a_food_quality": "number",
+    "date": "datetime"
+  }
+}

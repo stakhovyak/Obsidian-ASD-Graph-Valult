@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "95d24fd7d6660954",
+    "type": "split",
+    "children": [
+      {
+        "id": "d02a97305419d659",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac4a5d47d661b07d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "emotional-journal/2025-10-27.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-10-27"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63e8c6b67812ee8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b34991cedfcd0095",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f00a2cba0aa0f99e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dfd93e50d89bd3d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4f24b3270bc97a45",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "19f95fc2b0a5de1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "38501d154bd5c797",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ea058004c1134c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Degree MOC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Degree MOC"
+            }
+          },
+          {
+            "id": "69216caebfbad007",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Degree MOC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Degree MOC"
+            }
+          },
+          {
+            "id": "f990e19406c2d2c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "16c784982f7b4b4a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Degree MOC.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Degree MOC"
+            }
+          },
+          {
+            "id": "a2470b89b23fab0b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "a6f1d87126f485c4",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "32c27a09ad0c19c1",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "zk-prefixer:Create new unique note": false,
+      "juggl:Juggl global graph": false
+    }
+  },
+  "active": "ac4a5d47d661b07d",
+  "lastOpenFiles": [
+    "dashboards/_emotional_journal_dashboard.md",
+    "emotional-journal/2025-10-28.md",
+    "templates/emotional-journal-template.md",
+    "emotional-journal/2025-10-27.md",
+    "scripts/d3.v7.min.js",
+    "emotional-journal/_categories_moc.md",
+    "scripts/cytoscape.min.js",
+    "scripts/Untitled.md",
+    "scripts",
+    "Будний день.md",
+    "Untitled.canvas",
+    "__00 System__/_juggl_daily_view.md",
+    "__00 System__",
+    "dashboards",
+    "Раздражение.md",
+    "Degree MOC.md",
+    "templates",
+    "emotional-journal",
+    "__000 Home__.md",
+    "2025-10-27.md",
+    "Obsidian intro.md",
+    "Templates",
+    "Welcome.md"
+  ]
+}
