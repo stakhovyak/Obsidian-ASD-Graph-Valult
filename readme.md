@@ -9,6 +9,7 @@ This vault is adapted for journaling in **Russian**. While this README is in Eng
 - [ ] add search by word for category nodes in graph
 - [ ] make clicking on the node with category open up it's note to see description and backlinks
 - [ ] make clicking on certain context (gray rectangular) open up the daily note it's being mentioned in
+- [ ] make it possible to create a pdf report with the trackers, and full resolution graph image
 
 ## Concept
 
