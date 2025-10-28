@@ -14,9 +14,9 @@ This vault is adapted for journaling in **Russian**. While this README is in Eng
 
 this system is about logging metrics in a free-form, narrative way. It's built on the understanding that the most honest insights come from unfiltered thoughts. This format allows you to write down absolutely anything that comes to mind—chaotic thoughts, nonsensical ideas, profanity, or deeply personal events.
 
-The true value lies in the tagged metadata, not just the prose. By tagging your raw thoughts with predefined categories, you create a structured layer of data on top of unstructured writing.
+The true value lies in the tagged metadata, not just the prose.
 
-This creates a powerful layer of abstraction and privacy. The generated graph represents the *metrics* of your mental state—the connections and frequencies of moods, situations, and behaviors. This high-level view can be incredibly useful. For instance, you could show the visual graph to a therapist or specialist. They could identify valuable patterns and gain insights for their work without needing to read the raw, intimate, and sometimes chaotic details of the notes themselves.
+The generated graph represents the *metrics* of your mental state—the connections and frequencies of moods, situations, and behaviors. This high-level view can be incredibly useful. For instance, you could show the visual graph to a therapist or specialist. They could identify valuable patterns and gain insights for their work without needing to read the raw, intimate, and sometimes chaotic details of the notes themselves.
 
 -----
 
