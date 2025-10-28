@@ -4,6 +4,12 @@ This vault is adapted for journaling in **Russian**. While this README is in Eng
 
 -----
 
+## To do
+
+[ ] add search by word for category nodes in graph
+[ ] make clicking on the node with category open up it's note to see description and backlinks
+[ ] make clicking on certain context (gray rectangular) open up the daily note it's being mentioned in
+
 ## Concept
 
 this system is about logging metrics in a free-form, narrative way. It's built on the understanding that the most honest insights come from unfiltered thoughts. This format allows you to write down absolutely anything that comes to mind—chaotic thoughts, nonsensical ideas, profanity, or deeply personal events.
